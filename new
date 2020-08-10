@@ -105,3 +105,13 @@ http://digiiptv.ddns.net:25461/touhid/6z3ZPbnhgC/823
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/823
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="HINDI MOVIES",53. SONY SET MAX HD
 http://digiiptv.ddns.net:25461/touhid/6z3ZPbnhgC/147
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="HINDI MOVIES",SONY SET MAX SD
+http://216.144.250.174/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES",UTV HD
+http://starshare.live:8080/live/216176@56/801966@56/1382.ts
+#EXTINF:0 tvg-logo="" group-title="IndianBangla  (Sohel/Arif/Sakil)",27.Star Jalsha movies HD [Trial]
+http://oqab.life:31000/ropon@25/ropon25/1424
+#EXTINF:0 tvg-logo="" group-title="IndianBangla  (Sohel/Arif/Sakil)",& pic HD
+http://oqab.life:31000/ropon@25/ropon25/114
+#EXTINF:0 tvg-logo="" group-title="IndianBangla  (Sohel/Arif/Sakil)",27.& pic HD
+http://103.205.133.19/hls/andpicture.m3u8
