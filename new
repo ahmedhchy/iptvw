@@ -103,5 +103,5 @@ https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 http://digiiptv.ddns.net:25461/touhid/6z3ZPbnhgC/823
 #EXTINF:0 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="HINDI MOVIES",52. Star Gold HD Select 2
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/823
-#EXTINF:0 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="HINDI MOVIES",SONY SET MAX HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="HINDI MOVIES",53. SONY SET MAX HD
 http://digiiptv.ddns.net:25461/touhid/6z3ZPbnhgC/147
